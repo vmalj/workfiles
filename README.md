@@ -1,2 +1,2 @@
 # workfiles
-My Projects
+My Made-At-Home projects, purely for self learning and experiments.
