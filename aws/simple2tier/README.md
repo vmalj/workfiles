@@ -1,1 +1,1 @@
-A Simple 2 Tier Architecture 
+A Simple 2 Tier Architecture for Terraform
